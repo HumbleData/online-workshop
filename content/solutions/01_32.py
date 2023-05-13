@@ -1,0 +1,1 @@
+len(list_greeting)

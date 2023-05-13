@@ -1,0 +1,1 @@
+df.loc[[145, 7, 0], ["flipper_length_mm", "body_mass_g"]]

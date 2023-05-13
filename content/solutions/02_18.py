@@ -1,0 +1,1 @@
+df["sex"].value_counts(dropna=False)

@@ -1,0 +1,1 @@
+df["flipper_length_mm"].isnull().sum()
