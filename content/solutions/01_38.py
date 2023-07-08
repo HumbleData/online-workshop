@@ -1,3 +1,5 @@
+#await micropip.install("numpy")
+
 import numpy as np
 
-np.sin(np.pi / 4)
+print(np.sin(np.pi / 4))

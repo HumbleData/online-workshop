@@ -1,1 +1,3 @@
-pd.options.display.max_rows = 25
+import pandas as pd
+
+pd.set_option('display.max_rows', 25)

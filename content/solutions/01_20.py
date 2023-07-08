@@ -1,1 +1,1 @@
-False != 2
+print(False != 2)
