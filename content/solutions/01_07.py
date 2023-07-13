@@ -1,1 +1,2 @@
-s[-3:]
+s = "I am a Pythonista."
+print(s[-3:])

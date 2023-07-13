@@ -1,1 +1,5 @@
-df.tail(3)
+import pandas as pd
+from IPython.display import display
+df = pd.read_csv("../data/Penguins/penguins.csv")
+
+display(df.tail(3))

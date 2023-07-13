@@ -1,3 +1,3 @@
 from math import sqrt
 
-sqrt(24336)
+print(sqrt(24336))

@@ -1,1 +1,1 @@
-round(123.45)
+print(round(123.45))
